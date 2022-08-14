@@ -13,4 +13,5 @@ console.log('index');
 
 hello
 
- yooooooooo!!!
+yooooooooo!!!
+hanchimochihanmochi
